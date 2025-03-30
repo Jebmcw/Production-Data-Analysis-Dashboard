@@ -1,0 +1,4 @@
+well_id,production_date,volume_produced,region
+1,2023-01-01,500,Texas
+2,2023-01-01,400,Oklahoma
+3,2023-01-02,600,Texas

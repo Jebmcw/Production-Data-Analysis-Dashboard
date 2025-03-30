@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: production_dashboard
+Version: 0.1.0
+Summary: Oil and Gas Production Analysis Dashboard
+Author: Blake Woods
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: reportlab
